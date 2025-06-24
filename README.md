@@ -5,11 +5,11 @@ https://nodejs.org/en
 # and click Install Node.js button
 
 
-# 1. Clone the repository
+# 1. open cmd and choose the folder path you want to clone the repository and type this
 
 git clone https://github.com/Ednisson/take-home-quiz-frontend.git
 
-# 2. open cmd navigate to the project folder path
+# 2. navigate to the project folder path
 
 cd take-home-quiz-frontend
 
@@ -23,6 +23,6 @@ git pull origin main
 npm install
 
 
-# 5. finally type this on cmd to run the project
+# 5. finally type this to run the project
 
 npm start
