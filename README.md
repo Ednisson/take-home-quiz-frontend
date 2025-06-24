@@ -15,11 +15,12 @@ cd take-home-quiz-frontend
 
 # 3. fetch and pull by typing these on cmd
 
-git fetch
-git pull origin main
+- git fetch
+- git pull origin main
 
 
 # 4. install node modules folder
+
 npm install
 
 
